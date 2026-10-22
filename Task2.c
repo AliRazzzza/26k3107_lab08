@@ -1,6 +1,6 @@
 #include <stdio.h>
 void welcome(){
-    printf("Welcome to our shop!\n");
+    printf("Welcome to the shop\n");
 }
 
 void showMenu(){
